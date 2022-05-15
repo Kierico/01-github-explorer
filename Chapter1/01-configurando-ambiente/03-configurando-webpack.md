@@ -52,7 +52,7 @@
 
     ```js
         export function App() {
-            return <h1>Hello Word</h1>
+            return <h1>Hello World</h1>
         }
     ```
 E... importe para o arquivo "index.jsx" em "src":

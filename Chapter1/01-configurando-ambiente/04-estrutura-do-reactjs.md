@@ -38,7 +38,7 @@
 
     `yarn webpack` exculta o webpack.
 
-5. Agora, no arquivo "index.js" na pasta "src", é só trocar o "h1" pelo componente "<App />".
+5. Agora, no arquivo "index.js" na pasta "src", é só trocar o "h1" pelo componente "<\App />".
 
     ```js
         import { render } from 'react-dom';
