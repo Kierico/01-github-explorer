@@ -1,6 +1,6 @@
 # Webpack
 
-    Vai converter (looders) os arquivos para ser entendido pelos browsers. Ex: ".sass" para ".css".
+    Vai converter (loaders) os arquivos para ser entendido pelos browsers. Ex: ".sass" para ".css".
     Modules With Dependencies ---> Static Assets.
 
 [ <img style="width: 100px;" src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg"> ](https://webpack.js.org/)
